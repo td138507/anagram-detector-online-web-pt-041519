@@ -8,4 +8,4 @@ class Anagram
     %w(words)
   end
 
-  def 
+end
