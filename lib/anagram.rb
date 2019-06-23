@@ -5,6 +5,7 @@ class Anagram
   def match(words)
     @words = words
       if words >0
+    %w(words)
   end
 
   def 
